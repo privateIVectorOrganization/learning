@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.88
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IvectorTestProject", "IvectorTestProject\IvectorTestProject.csproj", "{A2AF49A3-C9B2-4619-9471-77987BB49013}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2AF49A3-C9B2-4619-9471-77987BB49013}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2AF49A3-C9B2-4619-9471-77987BB49013}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2AF49A3-C9B2-4619-9471-77987BB49013}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2AF49A3-C9B2-4619-9471-77987BB49013}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E828C160-B3CF-4338-85BD-5B878461EDBA}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,13 @@
+C:\Users\Desktop-PC\source\repos\IvectorTestProject\IvectorTestProject\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Users\Desktop-PC\source\repos\IvectorTestProject\IvectorTestProject\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Users\Desktop-PC\source\repos\IvectorTestProject\IvectorTestProject\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\Users\Desktop-PC\source\repos\IvectorTestProject\IvectorTestProject\bin\Debug\netcoreapp2.2\IvectorTestProject.deps.json
+C:\Users\Desktop-PC\source\repos\IvectorTestProject\IvectorTestProject\bin\Debug\netcoreapp2.2\IvectorTestProject.runtimeconfig.json
+C:\Users\Desktop-PC\source\repos\IvectorTestProject\IvectorTestProject\bin\Debug\netcoreapp2.2\IvectorTestProject.runtimeconfig.dev.json
+C:\Users\Desktop-PC\source\repos\IvectorTestProject\IvectorTestProject\bin\Debug\netcoreapp2.2\IvectorTestProject.dll
+C:\Users\Desktop-PC\source\repos\IvectorTestProject\IvectorTestProject\bin\Debug\netcoreapp2.2\IvectorTestProject.pdb
+C:\Users\Desktop-PC\source\repos\IvectorTestProject\IvectorTestProject\obj\Debug\netcoreapp2.2\IvectorTestProject.csproj.CoreCompileInputs.cache
+C:\Users\Desktop-PC\source\repos\IvectorTestProject\IvectorTestProject\obj\Debug\netcoreapp2.2\IvectorTestProject.AssemblyInfoInputs.cache
+C:\Users\Desktop-PC\source\repos\IvectorTestProject\IvectorTestProject\obj\Debug\netcoreapp2.2\IvectorTestProject.AssemblyInfo.cs
+C:\Users\Desktop-PC\source\repos\IvectorTestProject\IvectorTestProject\obj\Debug\netcoreapp2.2\IvectorTestProject.dll
+C:\Users\Desktop-PC\source\repos\IvectorTestProject\IvectorTestProject\obj\Debug\netcoreapp2.2\IvectorTestProject.pdb
